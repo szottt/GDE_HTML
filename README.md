@@ -1,2 +1,2 @@
-# GDE_PHP
-Grupo de Estudos de PHP
+# GDE_HTML
+Grupo de Estudos de HTML
